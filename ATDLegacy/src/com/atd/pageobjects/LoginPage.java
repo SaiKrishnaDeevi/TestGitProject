@@ -33,7 +33,7 @@ public class LoginPage {
 		 userName.sendKeys(name);
 		 password.sendKeys(pwd);
 		 login.click();
-		 System.out.println("dsfsdf");
+		 System.out.println("dgfgfsfsdf");
 		 
 	 }
 
